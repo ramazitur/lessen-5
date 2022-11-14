@@ -1,0 +1,144 @@
+.inline {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.inlinetext {
+
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.bottominline {
+    font-display: block;
+    vertical-align: center;
+    text-align: center;
+
+}
+
+.Copyinline {
+    display: inline-block;
+    vertical-align: center;
+}
+
+.conteiner {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+header {
+    width: 1280px;
+    height: 150px;
+}
+
+.menu1 {
+    font-size: 70px;
+    padding-left: 44px;
+    padding-top: 40px;
+    padding-bottom: 55px;
+    font-weight: bold;
+}
+
+.menu2 {
+    font-size: 18px;
+    padding-left: 72px;
+}
+
+.logo {
+
+    padding-left: 181px;
+}
+
+/* შუა ნაწილილი  */
+
+.middle {
+    background-color: #306b34;
+    width: 1280px;
+    height: 779px;
+}
+
+.photo {
+
+    padding-left: 95px;
+    padding-top: 174px;
+
+}
+
+
+.textmiddle {
+    padding-top: 188px;
+    padding-left: 74px;
+}
+
+.righttext {
+    font-size: 40px;
+    color: #19381f;
+    width: 300px;
+    height: 30px;
+    text-align: left;
+}
+
+.righttext1 {
+    width: 307px;
+    height: 291px;
+    font-size: 20px;
+    padding-top: 89px;
+    text-align: left;
+    color: #f4f4f1;
+
+}
+
+/* bottom მეორე ნაწილი */
+article {
+    width: 1280px;
+
+}
+
+.სათაური {
+    font-size: 40px;
+    padding-top: 72px;
+
+}
+
+.bottomtext {
+    color: #7f7f7f;
+    font-size: 20px;
+    padding: 72px 137px 69px 184px;
+
+}
+
+button {
+    font-size: 12px;
+    color: #ffffff;
+    width: 148px;
+    height: 48px;
+    background-color: #36413e;
+}
+
+
+
+/* ბოლო ნაწილი */
+footer {
+    width: 1280px;
+    height: 68px;
+    background-color: #306b34;
+    margin-top: 33px;
+}
+
+.foot {
+    font-size: 20px;
+    color: #f4f4f1;
+    padding-left: 74px;
+    padding-top: 25px;
+
+}
+
+.Copyright {
+    font-size: 12px;
+    color: #f4f4f1;
+    padding-top: 24px;
+    padding-left: 724px;
+
+
+}
